@@ -1,0 +1,27 @@
+# === Python cache files ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# === Virtual environments ===
+venv/
+env/
+.venv/
+.virt/
+virt_aud/
+
+# === IDE and system files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# === Jupyter Notebook checkpoints (if any) ===
+.ipynb_checkpoints/
+
+# === Git-specific ===
+.git/
+

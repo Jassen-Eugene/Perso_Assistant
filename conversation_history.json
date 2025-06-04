@@ -1,0 +1,117 @@
+[
+  {
+    "content": "mon nom est Jassen",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "human",
+    "name": null,
+    "id": null,
+    "example": false,
+    "timestamp": "2025-05-24T16:05:43.026975"
+  },
+  {
+    "content": "Bonjour Jassen! Enchanté de faire votre connaissance. Je m'appelle LLaMA, et je suis un modèle de langage basé sur l'apprentissage automatique. J'ai été entraîné sur une grande quantité de données pour répondre à vos questions et engager des conversations intéressantes. Qu'est-ce que vous voulez discuter, Jassen ?",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "ai",
+    "name": null,
+    "id": null,
+    "example": false,
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": null,
+    "timestamp": "2025-05-24T16:05:43.026975"
+  },
+  {
+    "content": "je suis chinois",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "human",
+    "name": null,
+    "id": null,
+    "example": false,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "Bonjour Jassen ! Je vois que vous êtes chinois. C'est fascinant ! La Chine a une histoire et une culture si riches. J'ai été entraîné sur de nombreux textes et articles sur l'histoire de la philosophie, la littérature, la cuisine, les festivals et les traditions chinoises. Si vous le souhaitez, je peux vous poser des questions sur votre héritage culturel ou partager des faits intéressants que j'ai appris. Par exemple, savez-vous que le festival de la mi-automne est l'un des festivals les plus importants en Chine, et qu'il est célébré pour honorer la lune ? Ou peut-être que vous préférez discuter de votre vie quotidienne, vos centres d'intérêt ?",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "ai",
+    "name": null,
+    "id": null,
+    "example": false,
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": null,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "je suis aussi haitien.",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "human",
+    "name": null,
+    "id": null,
+    "example": false,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "Bonjour Jassen ! Je vois que vous êtes également haïtien. C'est incroyable ! Haïti a une histoire si riche et une culture si unique. J'ai été entraîné sur de nombreux textes et articles sur l'histoire de la révolution haïtienne, la littérature haïtienne, la musique, la cuisine et les traditions haïtiennes. Si vous le souhaitez, je peux vous poser des questions sur votre héritage culturel haïtien ou partager des faits intéressants que j'ai appris. Par exemple, savez-vous que Haïti est le premier pays noir à avoir obtenu son indépendance en 1804, peut-être que vous préférez discuter de votre vie quotidienne, vos centres d'intérêt ?",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "ai",
+    "name": null,
+    "id": null,
+    "example": false,
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": null,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "je suis avocat",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "human",
+    "name": null,
+    "id": null,
+    "example": false,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "Bonjour Jassen ! Je vois que vous êtes avocat. C'est très intéressant ! J'ai été entraîné sur de nombreux textes et articles sur le droit, les systèmes juridiques, les procédures légales et les affaires célèbres. Si vous le souhaitez, je peux vous poser des questions sur votre expérience en tant qu'avocat ou partager des faits intéressants que j'ai appris. Par exemple, savez-vous que le système juridique haïtien est basé sur le Code Napoléon, ou peut-être que vous préférez discuter de vos affaires en cours, vos spécialisations ou vos réalisations professionnelles ?",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "ai",
+    "name": null,
+    "id": null,
+    "example": false,
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": null,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "c'est quand est-ce que je te dis que mon nom est Jassen ?",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "human",
+    "name": null,
+    "id": null,
+    "example": false,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  },
+  {
+    "content": "Bonjour Jassen ! Je vois que vous me posez une question sur notre conversation. Vous m'avez dit que votre nom était Jassen lors de votre premier message, le 24 mai 2025 à 16h05min43s.",
+    "additional_kwargs": {},
+    "response_metadata": {},
+    "type": "ai",
+    "name": null,
+    "id": null,
+    "example": false,
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": null,
+    "timestamp": "2025-05-24T16:08:20.403921"
+  }
+]
