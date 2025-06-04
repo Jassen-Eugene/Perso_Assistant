@@ -20,35 +20,35 @@ Le projet utilise des modèles de langage (LLM), la reconnaissance vocale, la g�
 
 ---
 
-## 🧠 Fonctionnalités prévues / en cours
+## Fonctionnalités prévues / en cours
 
 ### 🎙️ Interaction vocale
 - Enregistrement de la voix et transcription automatique (`record.py`, `speech_to_text.py`)
 - Synthèse vocale pour répondre à l'utilisateur (`read_response.py`, `output.wav`)
 - Détection des locuteurs (`detect.py`, `detect_locutor.py`)
 
-### 📅 Organisation & Productivité
+### Organisation & Productivité
 - Gestion d'agenda : ajout et consultation d'événements (`agenda.py`)
 - Alarmes programmables (`alarme.py`, `agenda_alarm.py`)
 - Rappels vocaux enregistrés avec stockage JSON (`rappel.py`, `rappels.json`)
 
-### 🧭 Services utiles
+### Services utiles
 - Heure locale (`heure.py`)
 - Météo actuelle (`meteo.py`)
 - Itinéraires avec génération de cartes (`itineraire.py`, `itineraire.png`)
 
-### 🎵 Divertissement
+### Divertissement
 - Lecture de musiques depuis un répertoire (`musics.py`, `voice_me`)
 - Génération d’images à partir de requêtes texte (Stable Diffusion, `image.py`)
 - Lecture des actualités / news (`news.py`)
 
-### 🧠 Intelligence & mémoire
+### Intelligence & mémoire
 - Historique des conversations pour personnalisation (`conversation_history.json`)
 - Prise en conte de la nature des demandes de l'utilisateur (`model.py`)
 - Réponses contextuelles basées sur la mémoire (`model_memoire.py`)
 - Réponses longues avec support d’outils externes (`model_long.py`)
 
-### 🧪 Expérimentation & test
+### Expérimentation & test
 - Fichiers audio pour l'intéraction entre le modèle et l'utilisateur (`jassen.wav`, `enregistrement_silence.wav`)
 - Modèle de décision principal pour piloter les actions (`decision.py`)
 
