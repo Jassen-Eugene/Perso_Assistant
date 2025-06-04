@@ -22,7 +22,7 @@ Le projet utilise des modèles de langage (LLM), la reconnaissance vocale, la g�
 
 ## Fonctionnalités prévues / en cours
 
-### 🎙️ Interaction vocale
+### Interaction vocale
 - Enregistrement de la voix et transcription automatique (`record.py`, `speech_to_text.py`)
 - Synthèse vocale pour répondre à l'utilisateur (`read_response.py`, `output.wav`)
 - Détection des locuteurs (`detect.py`, `detect_locutor.py`)
